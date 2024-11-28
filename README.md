@@ -1,8 +1,7 @@
 ## Hi there 👋
 
-**TimN1987/TimN1987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+I have begun learning computer programming as part of a plan to change careers.
+I have quickly learned that I should have started years ago!
 
 - 🔭 I’m currently working on ecperimenting with C# and Python projects.
 - 🌱 I’m currently learning how to use Winforms and WPF with C# and linking in SQL.
